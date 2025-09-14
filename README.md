@@ -14,15 +14,14 @@ The workflow is designed to be **causal, reproducible, and business-actionable**
 ## ⚙️ Environment Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<ypython -m venv .venv
-source .venv/bin/activate   # On Windows: .venv\Scripts\activate
-our-username>/mmm-mediation.git
-   cd mmm-mediation
-   pip install -r requirements.txt
-├── data/                   # Weekly marketing dataset (CSV)
-├── notebooks/
-│   └── 01_mmm_model.ipynb  # Main analysis notebook (16 cells)
-├── requirements.txt        # Python dependencies
-├── writeup.md              # Short report (methods, causal framing, diagnostics, insights)
-├── README.md               # Project instructions (this file)
+   git clone https://github.com/vvvmmmkkk/mm-mediation.git
+
+---
+
+
+
+
+
+
+
 
