@@ -12,16 +12,15 @@ The workflow is designed to be **causal, reproducible, and business-actionable**
 ---
 
 ## ⚙️ Environment Setup
-1. Clone this repository:
+1. **Clone this repository**
    ```bash
    git clone https://github.com/vvvmmmkkk/mm-mediation.git
-
----
-
-
-
-
-
+   cd mm-mediation
+**Create and activate a virtual environment and install dependencies**
+   ```bash
+      python -m venv .venv
+      source .venv/bin/activate   # On Windows: .venv\Scripts\activate
+      pip install -r requirements.txt
 
 
 
